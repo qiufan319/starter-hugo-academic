@@ -1,7 +1,7 @@
 ---
 title: Qiufan Ji
 role: Ph.D. student
-avatar_filename: touxiang.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests: []
 social:
