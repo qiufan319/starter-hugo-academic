@@ -28,4 +28,4 @@ highlight_name: true
 first_name: Alice
 email: jiqiufan1024@gmail.com
 ---
-I am a Ph.D. candidate in the [Department of Computer Science](https://cs.njit.edu/) at [New Jersey Institute of Technology](https://www.njit.edu/), and I am working under the supervision of Professor [Cong Shi](https://web.njit.edu/~cs638/). My research interest focuses on adversarial machine learning, 3D object reconstruction, and deep learning algorithms secure.
+I am a Ph.D. student in the [Department of Computer Science](https://cs.njit.edu/) at [New Jersey Institute of Technology](https://www.njit.edu/), and I am working under the supervision of Professor [Cong Shi](https://web.njit.edu/~cs638/). My research interest focuses on adversarial machine learning, 3D object reconstruction, and deep learning algorithms secure.
